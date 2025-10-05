@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "kidtrack-2431b",
+  "private_key_id": "aaae9f15c92dadc40337a2cb45c6c83c54751410",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC3+4/h0AqUlD5q\nlPF55D4HcYw/6UaVroRFK3+Cb2248rj+vLnUf/0dq5NJknTh0hfrORB4YAwiuzFa\nCETDgJlZy+yCl1m4WDJiNAE8WcRyJVRzX+6Ihznv79O10w8cXGlzo6ZCEjPDUNjM\niKZ6ooFbDYK8L+F7ZkcXs5Gu8w3eFCd+qAwg3ZNLO4m9qjU2VsuRBnSeF5ow7I/g\nFlKi4rgkfErwhF8l8ZX0hXKSkhDn5Y4kMTbpZrDVyd7sUHeCn6YirGxD/8zgSRMV\nKZAXg4CcwaX0/ZyY7GbF4HFndR0ZKi64KeUIa9lTsFiSa0gC4cVcUqyVrMxhQRnG\nCA0RmbVrAgMBAAECggEABvllKJRLamFwnxEUheA/wUyt5wuC1Pa5TEPyjYrt/ll/\ngL++GmhcCHPLqmzMu6iypmrsQGi0dqnHT6UWy9BqpiUQSwAz8vevUg140VHxaLnl\nVYnlgwBmEyQ+T45EhhJmUiKTqvDn5gRnceCcniZ3cwoNxb0M6TGx1s8RFTAtrn7f\nH1t8Jn9Oe75vDl2SjSYhqZ6Wl7pybvIwsXUgxJ9UbG5pyQyeCtjpF7RZvXeUb48D\nTkeEUwZDU6Tt39f11py6auwZDnn6MiGjAqyq5aGUxZooKMsUf5mOIgJjKLopO/+e\nkJ3vvDk4TqnbZ4AuqSstXGcXsfHd6u5OOoA9v6ybaQKBgQDzyGtR9n4E+QGOgI8C\nRQ9S3Thf4pMbCvvzGFB6PUFz96qjcunhzDRxGMHjvBkVBEf1go/ijQRQ3YgtZx6f\n+z3FIflTRVPH0hDM3F6FNf/Tb9apoE4WwTdSkgCuSYr0UeQFrloMzt3o7LOgQTaq\njWItWeo5Rzc26UQM8PqPlFTwmQKBgQDBM/GS+oCDLTXO2JdT7Pk8psuTYC7L23HW\n/Jz8Boco5GdpM9eRCUON9wk5OXKDJROReGtXvzKORKEfm7zioT2FU6lHiJY1IEp6\nedQVKkc36NeOELDqMSWP0lZ/ECKcywT5+ROve+6FoGX/CvWth3H/so/DXCXcM1Nl\nwuDYVYckowKBgQDnOZTZhBPZgZlBYZzDSV+UeDFteQmQn+WDmO9UUl+PsDzQlUFT\nIw4mq5XT/OhJb+sU6cax2pFaZhUxA1sf4Pygy22h1uL1Z8D5npekgChrkuunrl4C\n5TclAUjWBvlebYH7BXlyJpCCymhBuzkvobSaUWuA8pRjZ/Nc1wDBSK8cGQKBgQCP\n4UUYdiFaj0KxJi+cOrBp8LVOraRsAKLIvhuSvLHPTDmO6SKySjna8YwW56dV7zih\nbxJRqHvX41gyl+KUzAtqzSEVuqxSKBgPGcdNc8zR4D8W92spHSyh7Lypp7R/G9o6\n5rk4SI0bSpZq1xibAHFvQOU7UdaIJFkJQZX8xcT9DQKBgQDcecTZKuLNBV+8NPUZ\nI3hY3tfpFIXUKSB7V5jdT5Xp1J0uk+UexCZ4w2ZWgPJMoonIS6etZPKWptoXs9is\n9f4aYc43NorAcxApeCwGnxU5FFdfjMjrpMId0mZFnpNerGfpjuSw2CoCsgYv0oSY\nhKtZ764tP0ZfWSqZRfIZi/cGPw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@kidtrack-2431b.iam.gserviceaccount.com",
+  "client_id": "113892969324044504771",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40kidtrack-2431b.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
